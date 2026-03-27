@@ -11,11 +11,11 @@
 
 ---
 
-## Sobre mim
+## About me
 
-Desenvolvedor de software com foco em **Big Data** e **Web Scraping em larga escala**. Atualmente Mid-level na [WebGlobal](https://webglobal.com.br), onde trabalho há quase 5 anos construindo soluções de coleta e processamento de dados.
+Software developer focused on **Big Data** and **large-scale Web Scraping**. Currently Mid-level at [WebGlobal](https://webglobal.com.br), where I have been building data collection and processing solutions for nearly 5 years.
 
-Pós-graduado em **Data Science** e **Segurança da Informação**, e atualmente cursando pós em **Inteligência Artificial**.
+Postgraduate in **Data Science** and **Information Security**, currently enrolled in a postgraduate program in **Artificial Intelligence**.
 
 ---
 
@@ -30,84 +30,84 @@ Pós-graduado em **Data Science** e **Segurança da Informação**, e atualmente
 
 </div>
 
-**Especialidades:**
-- Web Scraping em larga escala
-- Engenharia e processamento de dados
-- Automação e robotização de processos
-- Segurança da Informação
+**Specialties:**
+- Large-scale Web Scraping
+- Data engineering and processing
+- Process automation and robotization
+- Information Security
 
 ---
 
-## Projeto em destaque
+## Featured Project
 
 ### 🎮 [Sintaxys](https://sintaxys.com)
-Plataforma gamificada de aprendizado de programação.  
-Missões, XP, ranking, modo exame com certificado e suporte a 13 linguagens.
+Gamified programming learning platform.  
+Missions, XP, leaderboards, exam mode with certificates and support for 13 languages.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
+## Activity
 
-## Atividade
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jonatasfleck&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
----
-
-## Formação
-
-| Curso | Instituição | Ano |
-|---|---|---|
-| Pós — Inteligência Artificial | UniRitter | 2025–2026 |
-| Pós — Segurança da Informação | UNIASSELVI | 2025 |
-| Pós — Data Science | UNIASSELVI | 2023–2024 |
-| Tecnólogo em ADS | Unimar | 2021–2023 |
+[![GitHub Streak](https://streak-stats.demolab.com?user=jonatasfleck&theme=tokyonight&hide_border=true&locale=en)](https://git.io/streak-stats)
 
 ---
 
-## Certificações
+## Education
 
-### Segurança da Informação
-| Certificado | Instituição | Ano |
+| Degree | Institution | Year |
 |---|---|---|
-| Lei Geral de Proteção de Dados - LGPD | UNIASSELVI | Jul 2025 |
-| Gestão de Riscos em Segurança da Informação | UNIASSELVI | Jun 2025 |
-| Forense Digital e Investigação de Incidentes | UNIASSELVI | Jun 2025 |
-| Criptografia e Segurança de Redes | UNIASSELVI | Mai 2025 |
-| Gestão da Segurança da Informação | UNIASSELVI | Out 2023 |
-| Compliance Digital | UNIASSELVI | Mai 2025 |
+| Postgraduate — Artificial Intelligence | UniRitter | 2025–2026 |
+| Postgraduate — Information Security | UNIASSELVI | 2025 |
+| Postgraduate — Data Science | UNIASSELVI | 2023–2024 |
+| Associate Degree in Systems Analysis & Development | Unimar | 2021–2023 |
 
-### Big Data & Dados
-| Certificado | Instituição | Ano |
+---
+
+## Certifications
+
+### Information Security
+| Certificate | Institution | Year |
 |---|---|---|
-| Arquitetura de Coleta e Armazenamento: Hadoop e Spark | UNIASSELVI | Jan 2024 |
-| Big Data Analytic e a Tomada de Decisões | UNIASSELVI | Jan 2024 |
-| Análise de Dados Usando Dashboards | IERGS/UNIASSELVI | Dez 2023 |
-| Análise Estatística de Dados | UNIASSELVI | Dez 2023 |
-| Fundamentos de Big Data | UNIASSELVI | Dez 2023 |
+| General Data Protection Law - LGPD | UNIASSELVI | Jul 2025 |
+| Information Security Risk Management | UNIASSELVI | Jun 2025 |
+| Digital Forensics and Incident Investigation | UNIASSELVI | Jun 2025 |
+| Cryptography and Network Security | UNIASSELVI | May 2025 |
+| Compliance Digital | UNIASSELVI | May 2025 |
+| Information Security Management | UNIASSELVI | Oct 2023 |
 
-### Gestão & Projetos
-| Certificado | Instituição | Ano |
+### Big Data & Analytics
+| Certificate | Institution | Year |
 |---|---|---|
-| Gerenciamento de Partes Interessadas e Ferramentas de TI | IERGS/UNIASSELVI | Dez 2023 |
-| Tópicos Especiais em Gestão | UNIASSELVI | Out 2023 |
-| SCRUM | UNIASSELVI | Ago 2023 |
-| Departamento Pessoal | UNIFAEL | Abr 2020 |
+| Data Collection and Storage Architecture: Hadoop & Spark | UNIASSELVI | Jan 2024 |
+| Big Data Analytics and Decision Making | UNIASSELVI | Jan 2024 |
+| Data Analysis Using Dashboards | IERGS/UNIASSELVI | Dec 2023 |
+| Statistical Data Analysis | UNIASSELVI | Dec 2023 |
+| Fundamentals of Big Data | UNIASSELVI | Dec 2023 |
 
-### Desenvolvimento & TI
-| Certificado | Instituição | Ano |
+### Management & Projects
+| Certificate | Institution | Year |
 |---|---|---|
-| Web Development - Frontend | Estação Hack From Facebook | Abr 2021 |
-| Learning With Python (english version) | Enap | Abr 2021 |
-| UI/UX e Protótipos - Websites | Estação Hack From Facebook | Mai 2021 |
-| Inglês Instrumental para Tecnologia | Estação Hack From Facebook | Jun 2021 |
-| Tecnologia da Informação e Comunicação | SENAI | — |
-| Lógica de Programação | SENAI | Jun 2020 |
-| Mundo Conectado - Manual de Sobrevivência | ISC | Mar 2021 |
-| Montagem e Manutenção de Computadores | Microlins | Abr 2007 |
+| Stakeholder Management and IT Tools for Projects | IERGS/UNIASSELVI | Dec 2023 |
+| Special Topics in Management | UNIASSELVI | Oct 2023 |
+| SCRUM | UNIASSELVI | Aug 2023 |
+| HR & Payroll Management | UNIFAEL | Apr 2020 |
 
+### Development & IT
+| Certificate | Institution | Year |
+|---|---|---|
+| Web Development - Frontend | Estação Hack From Facebook | Apr 2021 |
+| Learning With Python | Enap | Apr 2021 |
+| UI/UX and Website Prototyping | Estação Hack From Facebook | May 2021 |
+| English for Technology | Estação Hack From Facebook | Jun 2021 |
+| Information and Communication Technology | SENAI | — |
+| Programming Logic | SENAI | Jun 2020 |
+| Connected World - Survival Guide | ISC | Mar 2021 |
+| Computer Assembly and Maintenance | Microlins | Apr 2007 |
+
+---
 
 <div align="center">
-  <sub>🔭 Sempre aprendendo algo novo sobre dados e IA</sub>
+  <sub>🔭 Always learning something new about data and AI</sub>
 </div>
