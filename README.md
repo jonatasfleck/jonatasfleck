@@ -40,7 +40,7 @@ Pós-graduado em **Data Science** e **Segurança da Informação**, e atualmente
 
 ## Projeto em destaque
 
-### 🎮 [Sintaxys](https://github.com/jonatasfleck/Sintaxys)
+### 🎮 [Sintaxys](https://sintaxys.com)
 Plataforma gamificada de aprendizado de programação.  
 Missões, XP, ranking, modo exame com certificado e suporte a 13 linguagens.
 
