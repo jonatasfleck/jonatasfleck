@@ -38,12 +38,9 @@ Pós-graduado em **Data Science** e **Segurança da Informação**, e atualmente
 
 ---
 
-## GitHub Stats
+## Atividade
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jonatasfleck&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasfleck&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=jonatasfleck&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 ---
 
