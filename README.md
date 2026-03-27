@@ -66,6 +66,48 @@ Missões, XP, ranking, modo exame com certificado e suporte a 13 linguagens.
 
 ---
 
+## Certificações
+
+### Segurança da Informação
+| Certificado | Instituição | Ano |
+|---|---|---|
+| Lei Geral de Proteção de Dados - LGPD | UNIASSELVI | Jul 2025 |
+| Gestão de Riscos em Segurança da Informação | UNIASSELVI | Jun 2025 |
+| Forense Digital e Investigação de Incidentes | UNIASSELVI | Jun 2025 |
+| Criptografia e Segurança de Redes | UNIASSELVI | Mai 2025 |
+| Gestão da Segurança da Informação | UNIASSELVI | Out 2023 |
+| Compliance Digital | UNIASSELVI | Mai 2025 |
+
+### Big Data & Dados
+| Certificado | Instituição | Ano |
+|---|---|---|
+| Arquitetura de Coleta e Armazenamento: Hadoop e Spark | UNIASSELVI | Jan 2024 |
+| Big Data Analytic e a Tomada de Decisões | UNIASSELVI | Jan 2024 |
+| Análise de Dados Usando Dashboards | IERGS/UNIASSELVI | Dez 2023 |
+| Análise Estatística de Dados | UNIASSELVI | Dez 2023 |
+| Fundamentos de Big Data | UNIASSELVI | Dez 2023 |
+
+### Gestão & Projetos
+| Certificado | Instituição | Ano |
+|---|---|---|
+| Gerenciamento de Partes Interessadas e Ferramentas de TI | IERGS/UNIASSELVI | Dez 2023 |
+| Tópicos Especiais em Gestão | UNIASSELVI | Out 2023 |
+| SCRUM | UNIASSELVI | Ago 2023 |
+| Departamento Pessoal | UNIFAEL | Abr 2020 |
+
+### Desenvolvimento & TI
+| Certificado | Instituição | Ano |
+|---|---|---|
+| Web Development - Frontend | Estação Hack From Facebook | Abr 2021 |
+| Learning With Python (english version) | Enap | Abr 2021 |
+| UI/UX e Protótipos - Websites | Estação Hack From Facebook | Mai 2021 |
+| Inglês Instrumental para Tecnologia | Estação Hack From Facebook | Jun 2021 |
+| Tecnologia da Informação e Comunicação | SENAI | — |
+| Lógica de Programação | SENAI | Jun 2020 |
+| Mundo Conectado - Manual de Sobrevivência | ISC | Mar 2021 |
+| Montagem e Manutenção de Computadores | Microlins | Abr 2007 |
+
+
 <div align="center">
   <sub>🔭 Sempre aprendendo algo novo sobre dados e IA</sub>
 </div>
