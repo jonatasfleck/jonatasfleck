@@ -40,12 +40,13 @@ Pós-graduado em **Data Science** e **Segurança da Informação**, e atualmente
 
 ## Projeto em destaque
 
-<a href="https://github.com/jonatasfleck/Sintaxys">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonatasfleck&repo=Sintaxys&theme=tokyonight&hide_border=true" />
-</a>
+### 🎮 [Sintaxys](https://github.com/jonatasfleck/Sintaxys)
+Plataforma gamificada de aprendizado de programação.  
+Missões, XP, ranking, modo exame com certificado e suporte a 13 linguagens.
 
-> Plataforma gamificada de aprendizado de programação — missões, XP, ranking e certificados.
-> Construída com Next.js, Supabase e TypeScript.
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 
 ## Atividade
