@@ -38,6 +38,16 @@ Pós-graduado em **Data Science** e **Segurança da Informação**, e atualmente
 
 ---
 
+## Projeto em destaque
+
+<a href="https://github.com/jonatasfleck/Sintaxys">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonatasfleck&repo=Sintaxys&theme=tokyonight&hide_border=true" />
+</a>
+
+> Plataforma gamificada de aprendizado de programação — missões, XP, ranking e certificados.
+> Construída com Next.js, Supabase e TypeScript.
+
+
 ## Atividade
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jonatasfleck&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
